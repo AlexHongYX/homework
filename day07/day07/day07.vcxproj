@@ -78,8 +78,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="digitSum.c" />
+    <ClCompile Include="factorial_recursior.c" />
+    <ClCompile Include="factorial_un_recursior.c" />
     <ClCompile Include="fib-un.c" />
     <ClCompile Include="fib.c" />
+    <ClCompile Include="power.c" />
+    <ClCompile Include="print_recursior.c" />
+    <ClCompile Include="stringReverse.c" />
+    <ClCompile Include="strlen_recursior.c" />
+    <ClCompile Include="strlen_un_recursion.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -21,5 +21,29 @@
     <ClCompile Include="fib-un.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="power.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="digitSum.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringReverse.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen_un_recursion.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen_recursior.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial_recursior.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial_un_recursior.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="print_recursior.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

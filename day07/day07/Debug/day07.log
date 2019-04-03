@@ -1,14 +1,32 @@
-﻿生成启动时间为 2019/4/1 23:03:17。
+﻿生成启动时间为 2019/4/2 18:33:21。
      1>项目“F:\bite\day07\day07\day07.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         F:\软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "fib-un.c"
+         F:\软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt digitSum.c factorial_recursior.c factorial_un_recursior.c "fib-un.c" fib.c power.c print_recursior.c stringReverse.c strlen_recursior.c strlen_un_recursion.c
+         strlen_un_recursion.c
+         strlen_recursior.c
+         stringReverse.c
+         print_recursior.c
+         power.c
+         fib.c
          fib-un.c
+         factorial_un_recursior.c
+         factorial_recursior.c
+         digitSum.c
+         正在生成代码...
        Link:
-         F:\软件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\bite\day07\Debug\day07.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\bite\day07\Debug\day07.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\bite\day07\Debug\day07.lib" /MACHINE:X86 "Debug\fib-un.obj"
+         F:\软件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\bite\day07\Debug\day07.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\bite\day07\Debug\day07.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\bite\day07\Debug\day07.lib" /MACHINE:X86 Debug\digitSum.obj
+         Debug\factorial_recursior.obj
+         Debug\factorial_un_recursior.obj
+         "Debug\fib-un.obj"
          Debug\fib.obj
+         Debug\power.obj
+         Debug\print_recursior.obj
+         Debug\stringReverse.obj
+         Debug\strlen_recursior.obj
+         Debug\strlen_un_recursion.obj
          day07.vcxproj -> F:\bite\day07\Debug\day07.exe
      1>已完成生成项目“F:\bite\day07\day07\day07.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.46
+已用时间 00:00:00.56
