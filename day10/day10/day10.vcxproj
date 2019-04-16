@@ -79,7 +79,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="average.c" />
+    <ClCompile Include="findOne.c" />
     <ClCompile Include="reverse_bit.c" />
+    <ClCompile Include="reverse_word.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

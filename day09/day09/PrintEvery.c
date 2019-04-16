@@ -4,7 +4,7 @@
 //
 //int main(){
 //
-//	int arr[32] = { 0 };
+//	int arr[32] = { 0 };	
 //	int input = 0;
 //	int i = 0;
 //	int j = 0;

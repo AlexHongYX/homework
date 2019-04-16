@@ -1,16 +1,12 @@
-﻿生成启动时间为 2019/4/13 23:44:19。
+﻿生成启动时间为 2019/4/16 19:36:52。
      1>项目“F:\bite\day09\day09\day09.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         F:\软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt differBit.c
-         differBit.c
-       Link:
-         F:\软件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\bite\day09\Debug\day09.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\bite\day09\Debug\day09.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\bite\day09\Debug\day09.lib" /MACHINE:X86 Debug\differBit.obj
-         Debug\jiou.obj
-         Debug\oneCount.obj
-         Debug\PrintEvery.obj
-         day09.vcxproj -> F:\bite\day09\Debug\day09.exe
-     1>已完成生成项目“F:\bite\day09\day09\day09.vcxproj”(Build 个目标)的操作。
+         F:\软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt jiou.c
+         jiou.c
+     1>f:\bite\day09\day09\jiou.c(19): error C2065: “测试打印”: 未声明的标识符
+     1>f:\bite\day09\day09\jiou.c(19): error C2143: 语法错误 : 缺少“;”(在“for”的前面)
+     1>已完成生成项目“F:\bite\day09\day09\day09.vcxproj”(Build 个目标)的操作 - 失败。
 
-生成成功。
+生成失败。
 
-已用时间 00:00:00.53
+已用时间 00:00:00.24
