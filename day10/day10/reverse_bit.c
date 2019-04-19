@@ -21,16 +21,16 @@
 ////}
 //
 //数位遍历写法
-unsigned int reverse_bit(unsigned int value){
-	int i;
-	int tmp;
-	int sum=0;
-	for (i = 0; i < 32; i++, value /= 2){
-		tmp = value % 2;
-		sum = sum * 2 + tmp;
-	}
-	return sum;
-}
+//unsigned int reverse_bit(unsigned int value){
+//	int i;
+//	int tmp;
+//	int sum=0;
+//	for (i = 0; i < 32; i++, value /= 2){
+//		tmp = value % 2;
+//		sum = sum * 2 + tmp;
+//	}
+//	return sum;
+//}
 //
 ////更简短写法
 //unsigned int reverse_bit(unsigned int value){
